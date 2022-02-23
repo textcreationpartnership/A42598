@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands joyfull holiday, or, St. Georges-day, holy honoured being the joyfull solemnity so long lookt for, of the coronation of King Charls the Second ... on St. Georges Day, being 23 of April : to the tune, The King enjoys his own again.</title>
+            <author>Organisation Gestosis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42598</idno>
+            <idno type="STC">Wing G49</idno>
+            <idno type="STC">ESTC R42042</idno>
+            <idno type="EEBO-CITATION">23282432</idno>
+            <idno type="OCLC">ocm 23282432</idno>
+            <idno type="VID">109525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands joyfull holiday, or, St. Georges-day, holy honoured being the joyfull solemnity so long lookt for, of the coronation of King Charls the Second ... on St. Georges Day, being 23 of April : to the tune, The King enjoys his own again.</title>
+                  <author>Organisation Gestosis.</author>
+               </titleStmt>
+               <extent>[2] leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on leaf [2]: By me O.G.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:109525:1"/>
+            <head>
+               <hi>Englands Joyfull Holiday, or, St. <hi>Georges-</hi>Day,</hi>
+            </head>
+            <head type="sub">
+               <hi>holy</hi> Honoured, being the joyfull Solemnity, ſo long lookt for, of the Coronation of King CHARLS the Second, who was moſt highly attended by all his Dukes, Earls, Lords, and Barons, from the Tower, through the City to <hi>Weſtminster,</hi> where he was Crowned on St. <hi>Georges</hi> Day, being 23. of <hi>April:</hi>
+            </head>
+            <opener>To the Tune, <hi>The King enjoys his own again.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>King Charles II</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>COme brave <hi>England,</hi> be of good cheare,</l>
+                  <l>For into you I will declare,</l>
+                  <l>Of the to fulleſt ſight that e're was ſeen,</l>
+                  <l>In the age of either King or Queen;</l>
+                  <l>Of Earls and Lords in glittering gold,</l>
+                  <l>With admiration to behold:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then let us all rejoyce and ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For CHARLS the ſecond is Crowned King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter twelve Years baniſhment,</l>
+                  <l>By wicked Traytors ſtrong conſent,</l>
+                  <l>Thou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h ſome endeavoured by their wiles,</l>
+                  <l>To keep him from us many miles:</l>
+                  <l>The Lord hath Croſt their bad intent;</l>
+                  <l>Let ſuch falſe hearts therefore repent:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then let us rejoyce, and merrily ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For Charls the Second is Crown'd our King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Duke of <hi>Yorke</hi> with all his Traine,</l>
+                  <l>And <hi>England's George</hi> don'ot ſtill remain,</l>
+                  <l>But all attend upon his Grace,</l>
+                  <l>Each man according to his place</l>
+                  <l>Shewes ioy of heart in every thing,</l>
+                  <l>And each man ſhouts, <hi>God ſave the King.</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then let all true ſubjects rejoyce and ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For Charls the ſecond is crown'd our King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The glittering traine of Dukes and Earls</l>
+                  <l>In glittering Cold, and coſtly Pearls,</l>
+                  <l>With knights and Squires, attend we ſee</l>
+                  <l>Upon his Grace, of Courage free;</l>
+                  <l>And glad they are as all doe ſay,</l>
+                  <l>To live too ſee this happy day;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With joy of heart they all doe ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For joy their Maſters Crowned King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The City they no coſt doe ſpare</l>
+                  <l>Their Loyalty for too declare</l>
+                  <l>With Pagean<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich, and brave attyre,</l>
+                  <l>The bravery makes all admire:</l>
+                  <l>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d all the Companies on a row</l>
+                  <l>Which doth their great affections <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And do rejoyce in every thing,</hi>
+                     </l>
+                     <l>
+                        <hi>With joy of heart to grace the Ki<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:109525:2" rendition="simple:additions"/>
+               <head>The Second Part</head>
+               <opener>to the ſame Tune</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>What joy of heart, we all expreſſe,</l>
+                  <l>For to enioy ſuch happineſſe,</l>
+                  <l>As the king upon the Throne to ſit,</l>
+                  <l>Who was long baniſht from us, yet</l>
+                  <l>The Lord hath brought him to his Crown,</l>
+                  <l>And Scepter to ſway in great renown:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Where he this day is to be ſeen,</hi>
+                     </l>
+                     <l>
+                        <hi>In glorious manner Crowned King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Let <hi>England</hi> then rejoyce with me,</l>
+                  <l>That we this happy day doe ſee;</l>
+                  <l>For cruelty ſhall ſurely ſceaſe,</l>
+                  <l>And we again enjoy our Peace:</l>
+                  <l>Let's ſtrive to keep it in our hand;</l>
+                  <l>And then t'will never depart the Land:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then may we rejoyce and merrily ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For Charls the ſecond is Crowned King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Let <hi>Booker</hi> and <hi>Lilly</hi> be a ſhamed,</l>
+                  <l>And all their knowledge much be blamed,</l>
+                  <l>For Writing againſt the King and Crown,</l>
+                  <l>And Propheſying the Clergie down:</l>
+                  <l>For they we ſee, falſe Prophets are,</l>
+                  <l>Though much made uſe of in the War.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Let us laugh at their folly, and let us ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For now his Grace is Crown'd our King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This year of God, let us advance,</l>
+                  <l>Which proves our great deliverance,</l>
+                  <l>From Cruell Government of ſword,</l>
+                  <l>Which ſeldome doth regard Gods word,</l>
+                  <l>Or cry of people in diſtreſs.</l>
+                  <l>Though near ſo full of heavineſs:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But let us rejoyce and merrily ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For Royal Charls is Crown'd our King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>There's <hi>York</hi> and <hi>Lancaſter</hi> does rejoyce</l>
+                  <l>
+                     <hi>Wincheſter</hi> and <hi>Worſter</hi> raiſe their voice:</l>
+                  <l>
+                     <hi>Lietchfield, Coventry</hi> and <hi>Darby</hi> Town,</l>
+                  <l>
+                     <hi>Nottingham</hi> and <hi>Newark</hi> of great renown:</l>
+                  <l>
+                     <hi>Lincoln</hi> and <hi>Leceſter</hi> of high degree,</l>
+                  <l>With <hi>Peterborough</hi> and Hull all glad to ſee:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>They do clap hands, rejoyces and ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For joy that Charls is Crown'd our King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Briſtow, Bathe</hi> and <hi>Exeter,</hi>
+                  </l>
+                  <l>
+                     <hi>Portſmouth</hi> and <hi>Plinmouth,</hi> ſeats of War,</l>
+                  <l>
+                     <hi>Oxford</hi> and <hi>Cambridge,</hi> of great fame,</l>
+                  <l>And many more that I'le not name;</l>
+                  <l>Yet moſt of them doe ſhew great joy,</l>
+                  <l>And ſing a loud, <hi>Vive Le Roy;</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>In heart and minde, let all men ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For Charls the ſecond is Crowned King</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Let all Phanaticks have a care,</l>
+                  <l>And keep out of the Devils ſnare,</l>
+                  <l>For this great work the Lord hath down</l>
+                  <l>In ſending us the Gracious Son</l>
+                  <l>Of him whom you with wrath did ſlay,</l>
+                  <l>For which you have cauſe to mourn alway</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But we will rejoyce and merrily ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>For joy that he is now Crown'd our King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>God keep him ſafe from Treachery,</l>
+                  <l>And all his good Nobility,</l>
+                  <l>With happy daves, and a long Raigne,</l>
+                  <l>The glorious Goſpell to maintain,</l>
+                  <l>That altogether may agree;</l>
+                  <l>Then we joyfull times ſhall ſee:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then that they may, let all men ſing,</hi>
+                     </l>
+                     <l>
+                        <hi>Amen, amen, God ſave the King.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <byline>By me O. G.</byline>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Burton</hi> at the Horſe-ſhoe in <hi>Smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
